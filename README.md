@@ -1,6 +1,6 @@
 # free-rdv-sniper
 🤖 **Bot de Surveillance de RDV Free** qui vérifie et vous notifie sur Telegram d'un nouveau créneau
-
+![🤖⚡📩 ](https://gifdb.com/images/high/panda-breaking-the-computer-eaqqqzduc702vgi0.gif)
 Ce script Python un peu dégeu a pour objectif de surveiller la page de gestion des rendez-vous technicien de l'opérateur Free. Il cherche automatiquement un créneau disponible avant une date limite que vous avez fixée, et vous notifie en temps réel via Telegram dès qu'une opportunité se présente.
 
 **Pourquoi ce script ?** ~~Parce qu'un sous traitant de Free à débranché ma fibre~~ Parce qu'il est difficile d'obtenir un rendez-vous avec un technicien Free avant sortie de la fusion nucléaire en version stable.
